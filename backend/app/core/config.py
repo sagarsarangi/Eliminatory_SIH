@@ -20,10 +20,6 @@ class Settings:
     TEXTBEE_API_KEY: str = os.getenv("TEXTBEE_API_KEY", "")
     TEXTBEE_DEVICE_ID: str = os.getenv("TEXTBEE_DEVICE_ID", "")
 
-    # Cloudinary
-    CLOUDINARY_CLOUD_NAME: str = os.getenv("CLOUDINARY_CLOUD_NAME", "")
-    CLOUDINARY_API_KEY: str = os.getenv("CLOUDINARY_API_KEY", "")
-    CLOUDINARY_API_SECRET: str = os.getenv("CLOUDINARY_API_SECRET", "")
 
     # ML Artifacts
     ML_ARTIFACTS_DIR: str = str(
