@@ -1,0 +1,22 @@
+Exception in send_sms: 'charmap' codec can't encode character '\U0001f404' in position 48: character maps to <undefined>
+send_sms called for +919938794854 with message: 🐄 MooSense Alert: Cow TEST_999 — Moderate Risk (59.7%). EC=9.0 mS/cm, pH=6.0, Temp=40.0°C. Monitor closely and check udder.
+API_KEY present: True, DEVICE_ID present: True
+Response status: 200, body: {"data":{"success":true,"message":"SMS added to queue for processing","smsBatchId":"6aba671bff84f05c4824ba4e","recipientCount":1}}
+send_sms called for +919938794854 with message: MooSense Alert: Cow COW_0118 - Moderate Risk (58.7%). EC=7.8 mS/cm, pH=7.2, Temp=40.5C. Monitor closely and check udder.
+API_KEY present: True, DEVICE_ID present: True
+Response status: 200, body: {"data":{"success":true,"message":"SMS added to queue for processing","smsBatchId":"6aba6926ff84f05c4826b33a","recipientCount":1}}
+send_sms called for +919938794854 with message: MooSense Alert: Cow COW_0148 - Moderate Risk (58.7%). EC=7.8 mS/cm, pH=7.2, Temp=48880.5C. Monitor closely and check udder.
+API_KEY present: True, DEVICE_ID present: True
+Response status: 200, body: {"data":{"success":true,"message":"SMS added to queue for processing","smsBatchId":"6aba6a09ff84f05c482771a2","recipientCount":1}}
+send_sms called for +919938794854 with message: MooSense Alert: Cow COW_0148 - Moderate Risk (58.7%). EC=7.8 mS/cm, pH=7.2, Temp=48880.5C. Monitor closely and check udder.
+API_KEY present: True, DEVICE_ID present: True
+Response status: 200, body: {"data":{"success":true,"message":"SMS added to queue for processing","smsBatchId":"6aba6ac8ff84f05c4827f254","recipientCount":1}}
+send_sms called for +919938794854 with message: MooSense Alert: Cow COW_0148 - Moderate Risk (58.7%). EC=7.8 mS/cm, pH=7.2, Temp=48880.5C. Monitor closely and check udder.
+API_KEY present: True, DEVICE_ID present: True
+Response status: 200, body: {"data":{"success":true,"message":"SMS added to queue for processing","smsBatchId":"6aba6b04ff84f05c48282701","recipientCount":1}}
+send_sms called for +919938794854 with message: MooSense Alert: Cow COW_0178 - Moderate Risk (63.9%). EC=7.8 mS/cm, pH=7.2, Temp=48880.5C. Monitor closely and check udder.
+API_KEY present: True, DEVICE_ID present: True
+Response status: 200, body: {"data":{"success":true,"message":"SMS added to queue for processing","smsBatchId":"6aba6b5dff84f05c48286c39","recipientCount":1}}
+send_sms called for +919938794854 with message: MooSense Alert: Cow COW_0178 - Moderate Risk (63.9%). EC=7.8 mS/cm, pH=7.2, Temp=48880.5C. Monitor closely and check udder.
+API_KEY present: True, DEVICE_ID present: True
+Response status: 200, body: {"data":{"success":true,"message":"SMS added to queue for processing","smsBatchId":"6aba716cff84f05c482cb965","recipientCount":1}}

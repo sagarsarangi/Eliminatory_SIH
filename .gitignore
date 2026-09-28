@@ -1,0 +1,34 @@
+# Node
+node_modules/
+.next/
+out/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+
+# Environment
+*.env
+.env
+.env.local
+
+# Datasets (large, local only)
+datasets/
+Mastitis cnn detection/
+Mastitis daatset and eda/
+
+# ML artifacts
+backend/ml/artifacts/*.pt
+backend/ml/artifacts/*.joblib
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db

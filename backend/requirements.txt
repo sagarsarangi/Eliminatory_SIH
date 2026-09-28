@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+scikit-learn
+joblib
+torch
+torchvision
+Pillow
+python-multipart
+supabase
+httpx
+python-dotenv
+pygeohash
+numpy
+pandas
+groq
